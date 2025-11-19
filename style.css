@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: linear-gradient(135deg, #f3e7ff, #d9b3ff);
+    font-family: "Georgia", serif;
+}
+
+h1 {
+    font-size: 5rem;
+    font-style: italic;
+    color: #8a2be2;
+    text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.2);
+}
